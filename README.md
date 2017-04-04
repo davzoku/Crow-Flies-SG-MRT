@@ -70,6 +70,20 @@ Haversine Formula on excel:
 
 [Spherical Law of Cosines vs Haversine]:http://gis.stackexchange.com/questions/4906/why-is-law-of-cosines-more-preferable-than-haversine-when-calculating-distance-b
 
+http://www.thetubechallenge.com/projectplan/primarydatagathering/network-map
+
+
+https://www.mytransport.sg/content/mytransport/home/dataMall.html
+
+
+https://en.wikipedia.org/wiki/Spherical_law_of_cosines
+
+
+https://en.wikipedia.org/wiki/Haversine_formula
+
+
+http://gis.stackexchange.com/questions/4906/why-is-law-of-cosines-more-preferable-than-haversine-when-calculating-distance-b
+
 
 https://webtrough.wordpress.com/2011/09/19/latlon-distance-formula-in-excel-haversine-and-spherical-law-of-cosines/
 
